@@ -1,5 +1,6 @@
 # Pizza App
-## Display k-Pizza
+Display k-Pizza
+ ![Getting Started](images/capturem 45)
 
 ## Getting Started
 
