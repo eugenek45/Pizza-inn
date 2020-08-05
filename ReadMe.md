@@ -1,6 +1,6 @@
 # Pizza App
 Display k-Pizza
- ![Getting Started](images\Capturem45.PNG)
+ ![Getting Started](Pizza-inn/images/Capturem 45.PNG)
 
 ## Getting Started
 
