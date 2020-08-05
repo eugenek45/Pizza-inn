@@ -13,7 +13,7 @@ A web application that you can choose type of pizza and order it online.
 To make your life more easier whe ou want to order a pizza while your at home.
 
 ## Demo
-Here is a working live demo: 
+Here is a working live demo: https://eugenek45.github.io/Pizza-inn/
 
 Installation instructions
 Open a browser, copy and paste the live demo link.It will open the landing page of the app.Make your order.
